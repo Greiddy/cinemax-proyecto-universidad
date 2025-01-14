@@ -31,7 +31,7 @@ CineMax es un sistema integral de gestión y reservas para cines, desarrollado c
 
 ## Instalación y Configuración
 
-1. Clonar el repositorio: git clone https://github.com/Greiddy/cinemax_proyecto.git
+1. Clonar el repositorio: git clone https://github.com/Greiddy/cinemax-proyecto-universidad.git
 
 2. Configurar la base de datos:
 
